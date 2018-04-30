@@ -219,7 +219,7 @@
 				TargetAttributes = {
 					DCCA9AFE1EC3DA0300197ABA = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = MQ79U7S5FQ;
+						DevelopmentTeam = L22T42P92Y;
 						ProvisioningStyle = Automatic;
 					};
 					DCCA9B121EC3DA0400197ABA = {
@@ -449,7 +449,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = MQ79U7S5FQ;
+				DEVELOPMENT_TEAM = L22T42P92Y;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/$(PROJECT_NAME)/ProjectName-Prefix.pch";
 				INFOPLIST_FILE = "ball-physics/Info.plist";
@@ -464,7 +464,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = MQ79U7S5FQ;
+				DEVELOPMENT_TEAM = L22T42P92Y;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/$(PROJECT_NAME)/ProjectName-Prefix.pch";
 				INFOPLIST_FILE = "ball-physics/Info.plist";
